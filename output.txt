@@ -1,0 +1,7 @@
+#  Output fram  DecisionTreeRegressor house  price predicting predicting  models
+
+1 DecisionTreeRegressor
+
+    Mean 250.59198898864597
+    standares deviation: 104.65970773755829
+
